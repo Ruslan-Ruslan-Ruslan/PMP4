@@ -1,0 +1,12 @@
+{
+    "videos": [
+      { "id": 1, "title": "Подорож по Україні", "author": "Автор 1", "image": "home.png" },
+      { "id": 2, "title": "Мандрівка до Вінниці", "author": "Автор 2", "image": "vinnytsia.png" }
+    ],
+    "details": [
+      { "id": 1, "videoId": 1, "description": "Це відео про подорож по Україні." },
+      { "id": 2, "videoId": 2, "description": "Опис подорожі до Вінниці." }
+    ]
+  }
+  
+  
